@@ -33,7 +33,7 @@
   <dl class="Profile">
 	<dt class="Profiletxt" id="Profile"><span class="ProfiletxtH"><strong>Profile:</strong></span></dt>
 	<dt class="Profiletxt"><strong><em>Name:</em></strong></dt>
-	<dd class="Profiletxt">Clement Cheung</dd>
+	<dd class="Profiletxt">CC</dd>
 	<dt class="Profiletxt"><strong><em>Student ID:</em></strong></dt>
 	<dd class="Profiletxt">s103076376</dd>
 	<dt class="Profiletxt"><em><strong>Course:</strong></em></dt>
@@ -54,7 +54,7 @@
 		<dt class="Profiletxt"><strong>Location of Birth:</strong></dt>
 		<dd>Melbourne</dd>
 		<dt class="Profiletxt"><strong>Disabilities:</strong></dt>
-		<dd>Autism</dd>
+		<dd>Aspergers</dd>
     
 	  </dl>
 	</div>
